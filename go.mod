@@ -1,4 +1,4 @@
-module go-scp
+module github.com/qq516249940/go-scp
 
 go 1.18
 
