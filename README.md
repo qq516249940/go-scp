@@ -44,3 +44,7 @@ func main() {
 }
 
 ```
+## 拉取
+```bash
+go get github.com/qq516249940/go-scp@v1.0.3
+```
